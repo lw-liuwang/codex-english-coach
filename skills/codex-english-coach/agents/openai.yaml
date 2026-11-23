@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex English Coach"
+  short_description: "Learn English while working with Codex"
+  default_prompt: "Use $codex-english-coach to help me read and write English while we work on my task."
+policy:
+  allow_implicit_invocation: true
